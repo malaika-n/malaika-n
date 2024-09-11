@@ -1,12 +1,9 @@
-Hello! I'm Malaika, a Data Analysis Enthusiast and Recent Graduate from California Lutheran University
+I am a graduate student at the New York Institute of Technology (NYIT), pursuing a Master's in Data Science and AI. With a solid foundation in statistical analysis, machine learning, and data visualization, I am dedicated to applying data-driven strategies to foster business growth and innovation.
 
-🌐 Eager to launch my career in Data Analysis, I am looking for entry-level opportunities where I can contribute effectively while continuing to grow and learn.
+I earned my Bachelor's in Computer Science (Cum Laude) from California Lutheran University, where I also minored in Mathematics. My professional experience includes serving as a Data Analyst and Generative AI Intern at Neilsoft, where I successfully enhanced customer satisfaction and product positioning through detailed data analysis and visualization.
 
-I'm passionate about transforming complex data into actionable insights by using them to make data-driven decisions. Through my education and experience with data projects, I have developed strong statistical and programming skills.
+In addition, I am the founder and former president of the Women in STEM Club at California Lutheran University, where I led initiatives to support and empower women in STEM through events and mentorship programs.
 
-<ul> I'm proficient in leveraging statistical and programming skills to convert complex data into clear, impactful insights </ul>
-<ul> I'm skilled in Exploratory Data Analysis, Statistical Analysis, SQL Data Visualization and Data Modelling </ul>
-<ul> As the founder and president of my university's Women In STEM Club, I am committed to bridging the gender gap in computing and fostering diverse representation in STEM fields </ul>
+I am currently seeking Data Science internship opportunities to further apply my technical expertise in a professional environment.
 
-I am keen on exploring opportunities that challenge me to utilize and expand my data science skills. If you’re looking for someone who can transform data into strategic insights and drive impactful decisions, let's connect!
-You can reach me through: malaikanazim@gmail.com
+Feel free to reach out to me at any time by emailing me at malaikanazim@gmail.com.
